@@ -7,30 +7,33 @@ _Schauen Sie sich in Ihrem Umfeld um. FH Technikum oder Ihr Job. Nennen Sie mind
 Beispiel für Daten, die schemalos (unstrukturiert) sind und mindestens ein Bespiel für Daten, die
 strukturiert (schematisch) sind._
 
-** Unstrukturierte Daten **
+**Unstrukturierte Daten**
 * Logfiles
 * Chat Messages
 
-** Strukturierte Daten **
+**Strukturierte Daten**
 * Persönliche Daten (Name, Alter, Adresse, ...)
 
 ### 1.2
 _Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein
 Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden._
 
-** Gestreamte Daten  **
+**Gestreamte Daten**
 * Infrastruktur Überwachung (Logging)
 * Diverse Real time events welche am Front end ausgelöst werden 
 
-** Batchverarbeitete Daten  **
+**Batchverarbeitete Daten**
 * SQL und System Backups werden Dateieise kopiert und auf ein Band geschrieben
 
 ## Assignment	2: Big	Data in	Ihrem	Umfeld
 _Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark.
 Installieren Sie die auf Ihrem Arbeitsgerät._
 ### Erklären Sie ihre Entscheidung
+Ich habe mich für Apache Spark entschieden, da mir dieses Produkt in div. Podcasts und Blogpost mehrmals untergekommen ist, wohingegen ich von Flink bisher recht wenig ehört habe. Nach meiner Recherche nehme ich zwar an dass dies fast ausschließlich dem Alter der beiden Technologien geschildet ist, aber es scheint als wäre Spark auch noch in den nächsten paar Jahren das weiter verbreitete Produkt.
 ### Schicken Sie einen Screenshot der installierten Umgebung mit
+folgt...
 ### Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)
+Als Fan der IntelliJ Produkte wurde IDEA 15 für Java inkl. Maven verwendet.
 
 ## Assignment	3: Big	Data in	Ihrem	Umfeld
 _Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch._
