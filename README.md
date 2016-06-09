@@ -6,9 +6,24 @@
 _Schauen Sie sich in Ihrem Umfeld um. FH Technikum oder Ihr Job. Nennen Sie mindestens ein
 Beispiel für Daten, die schemalos (unstrukturiert) sind und mindestens ein Bespiel für Daten, die
 strukturiert (schematisch) sind._
+
+** Unstrukturierte Daten **
+* Logfiles
+* Chat Messages
+
+** Strukturierte Daten **
+* Persönliche Daten (Name, Alter, Adresse, ...)
+
 ### 1.2
 _Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein
 Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden._
+
+** Gestreamte Daten  **
+* Infrastruktur Überwachung (Logging)
+* Diverse Real time events welche am Front end ausgelöst werden 
+
+** Batchverarbeitete Daten  **
+* SQL und System Backups werden Dateieise kopiert und auf ein Band geschrieben
 
 ## Assignment	2: Big	Data in	Ihrem	Umfeld
 _Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark.
