@@ -44,9 +44,18 @@ _Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden
 ### 1.1
 _Sie haben in der LVA zwei Frameworks kennengelernt (R und Python). Nennen Sie zwei weitere
 Technologien, um Daten zu analysieren (müssen nicht open source sein)_
+
+* [Torch](http://torch.ch/)
+> Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use > and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
+
+* [Julia](http://julialang.org/)
+> Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users > of other technical computing environments.
+
+Quelle: [Quora -What are the alternatives to R?](https://www.quora.com/What-are-the-alternatives-to-R) 
 ### 1.2
-_Sie bekommen den Auftrag, sich mit einer Data Science Technologie zu arbeiten. Nennen Sie
-Technologie, die ihnen auf dem ersten Blick am besten für Sie ersscheint und begründen Sie das!_
+_Sie bekommen den Auftrag, mit einer Data Science Technologie zu arbeiten. Nennen Sie eine
+Technologie, die ihnen auf dem ersten Blick am besten für Sie erscheint und begründen Sie das!_
+Ignoriert man die Anforderungen und das bereits vorhandene Wissen im Team, würde ich mit Python beginnen. Zum einen habe ich bereits etwas Erfahrung mit dieser Sprache und zum anderen ist es eine gute Grundlage um schnelle Ergebnisse zu erzielen und dem Management vorzulegen. Steigt die fachliche oder personelle Komplexität des Projekts würde ich zu eine strictly typed (Java) oder funktionellen (Scala) Technologie tendieren.
 
 ## Assignment	2: Technologien
 _Entscheiden Sie sich für eine Data Science Plattform. R oder Python
