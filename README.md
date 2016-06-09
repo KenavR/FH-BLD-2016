@@ -55,14 +55,22 @@ Quelle: [Quora -What are the alternatives to R?](https://www.quora.com/What-are-
 ### 1.2
 _Sie bekommen den Auftrag, mit einer Data Science Technologie zu arbeiten. Nennen Sie eine
 Technologie, die ihnen auf dem ersten Blick am besten für Sie erscheint und begründen Sie das!_
+
 Ignoriert man die Anforderungen und das bereits vorhandene Wissen im Team, würde ich mit Python beginnen. Zum einen habe ich bereits etwas Erfahrung mit dieser Sprache und zum anderen ist es eine gute Grundlage um schnelle Ergebnisse zu erzielen und dem Management vorzulegen. Steigt die fachliche oder personelle Komplexität des Projekts würde ich zu eine strictly typed (Java) oder funktionellen (Scala) Technologie tendieren.
 
 ## Assignment	2: Technologien
 _Entscheiden Sie sich für eine Data Science Plattform. R oder Python
 Installieren Sie die auf Ihrem Arbeitsgerät._
-### Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).
-### Schicken Sie einen Screenshot der installierten Umgebung mit
-### Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
+
+**Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).**
+
+Da ich vor einiger Zeit einen MOOC Kurs absolviert habe welche in Python unterrichtet wurde, habe ich auch hier Python verwendet. Auch wenn ich nicht mehr viel davon weiß, habe ich Python als sehr schnell zu erlernende und effiziente Sprache in Erinnerung.
+
+**Schicken Sie einen Screenshot der installierten Umgebung mit**
+
+**Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)**
+
+Für komplexe Projekte würde ich wohl IntelliJ's Python IDE - PyCharm verwenden, aber bei simplen Skripts bevorzuge ich einen lightweight Texteditor wie Visual Studio Code, Atom oder Sublime mit den für alle vorhandenen Python Plugin.
 
 ## Assignment	3: Big	Science
 _Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache
