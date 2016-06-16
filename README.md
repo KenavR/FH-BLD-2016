@@ -20,16 +20,16 @@ Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet wer
 
 **Gestreamte Daten**
 * Infrastruktur Überwachung (Logging)
-* Diverse Real time events welche am Front end ausgelöst werden 
+* Diverse Realtime events welche am Front end ausgelöst werden 
 
 **Batchverarbeitete Daten**
-* SQL und System Backups werden Dateieise kopiert und auf ein Band geschrieben
+* SQL und System Backups werden Dateiweise kopiert und auf ein Band geschrieben
 
 ## Assignment	2: Big	Data in	Ihrem	Umfeld
 _Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark.
 Installieren Sie die auf Ihrem Arbeitsgerät._
 ### Erklären Sie ihre Entscheidung
-Ich habe mich für Apache Spark entschieden, da mir dieses Produkt in div. Podcasts und Blogpost mehrmals untergekommen ist, wohingegen ich von Flink bisher recht wenig ehört habe. Nach meiner Recherche nehme ich zwar an dass dies fast ausschließlich dem Alter der beiden Technologien geschildet ist, aber es scheint als wäre Spark auch noch in den nächsten paar Jahren das weiter verbreitete Produkt.
+Ich habe mich für Apache Spark entschieden, da mir dieses Produkt in div. Podcasts und Blogpost mehrmals untergekommen ist, wohingegen ich von Flink bisher recht wenig gehört habe. Nach meiner Recherche nehme ich zwar an dass dies fast ausschließlich dem Alter der beiden Technologien geschuldet ist, aber es scheint als wäre Spark auch noch in den nächsten paar Jahren das weiter verbreitete Produkt.
 ### Schicken Sie einen Screenshot der installierten Umgebung mit
 folgt...
 ### Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)
@@ -56,7 +56,7 @@ Quelle: [Quora -What are the alternatives to R?](https://www.quora.com/What-are-
 _Sie bekommen den Auftrag, mit einer Data Science Technologie zu arbeiten. Nennen Sie eine
 Technologie, die ihnen auf dem ersten Blick am besten für Sie erscheint und begründen Sie das!_
 
-Ignoriert man die Anforderungen und das bereits vorhandene Wissen im Team, würde ich mit Python beginnen. Zum einen habe ich bereits etwas Erfahrung mit dieser Sprache und zum anderen ist es eine gute Grundlage um schnelle Ergebnisse zu erzielen und dem Management vorzulegen. Steigt die fachliche oder personelle Komplexität des Projekts würde ich zu eine strictly typed (Java) oder funktionellen (Scala) Technologie tendieren.
+Ignoriert man die Anforderungen und das bereits vorhandene Wissen im Team, würde ich mit Python beginnen. Zum einen habe ich bereits etwas Erfahrung mit dieser Sprache und zum anderen ist es eine gute Grundlage um schnelle Ergebnisse zu erzielen und dem Management vorzulegen. Steigt die fachliche oder personelle Komplexität des Projekts würde ich zu einer strictly typed (Java) oder funktionellen (Scala) Technologie tendieren.
 
 ## Assignment	2: Technologien
 _Entscheiden Sie sich für eine Data Science Plattform. R oder Python
