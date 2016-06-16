@@ -86,3 +86,15 @@ reduction unterscheiden.
 Nennen Sie ein Beispiel aus ihrem Umfeld, wo Sie mit dem Algorithmus zu tun haben. Das kann ein
 Beispiel sein, wie: Wenn Sie bei Amazon einkaufen. Wenn Sie von einem Marketinginstitut angerufen
 werden, etc._
+
+### Classification
+Classification ist ein wichtiger Teil des Maschine Learning bei dem Daten aufgrund zuvor gelernter Kriterien aus einem Testsample in Kategorien/Klassen eingeteilt werden. Je größer das Sample oder je länger das System im Betrieb ist, desto besser ist die automatische Kategorisierung. Beispiel: Kategorisierungsalgorithmen (Spam, Werbung, Sovcial Media,...) bei div. E-Mail Providern.
+
+### Regression
+Regression wird verwendet um Beziehungen zwischen abhängigen und unabhängigen Variablen zu modellieren. Die wohl wahrscheinlich bedeutensten Algorithmen sind Ordinary Least Squares Regression (OLSR), Linear, Stepwise und Logistic Regression. Beispiel: Wahlanalysen basierend auf Geschlecht, Kaufkraft, Ausbildung.
+
+### Clustering
+Beschreibt das sinnvolle Zusammenfassen von Daten die eine große Ähnlichkeit miteinander haben. Es ist ein wichtiger Bestandteil des Datenminings zur späteren Analyse. (Nicht Hypothesen testen) Als Beispiel kann hier gezielte Werbung und Marketing genannt werden. Je nach Gruppe sieht der User unterschiedliche Werbung im Browser.
+
+### Dimensional Reduction
+Die Dimensional Reduction beschreibt einen Prozess welcher ein Datenset reduziert in dem für die Analyse "irrelevante" Dimensionen entfernt bzw. nicht weiter berücksichtigt werden. Damit sind auch darauffolgende Classification oder Regression leichter und schneller möglich. Zum Beispiel ist für die Klassifizierung von E-Mails die Zieladresse oder der Timestamp nicht relevant.
