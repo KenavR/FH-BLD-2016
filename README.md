@@ -71,6 +71,8 @@ Installieren Sie die auf Ihrem Arbeitsgerät._
 Da ich vor einiger Zeit einen MOOC Kurs absolviert habe welche in Python unterrichtet wurde, habe ich auch hier Python verwendet. Auch wenn ich nicht mehr viel davon weiß, habe ich Python als sehr schnell zu erlernende und effiziente Sprache in Erinnerung.
 
 **Schicken Sie einen Screenshot der installierten Umgebung mit**
+![python](https://raw.githubusercontent.com/KenavR/FH-BLD-2016/master/python.png)
+![py_vscode](https://raw.githubusercontent.com/KenavR/FH-BLD-2016/master/py_vscode.png)
 
 **Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)**
 
