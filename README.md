@@ -31,7 +31,8 @@ Installieren Sie die auf Ihrem Arbeitsgerät._
 ### Erklären Sie ihre Entscheidung
 Ich habe mich für Apache Spark entschieden, da mir dieses Produkt in div. Podcasts und Blogpost mehrmals untergekommen ist, wohingegen ich von Flink bisher recht wenig gehört habe. Nach meiner Recherche nehme ich zwar an dass dies fast ausschließlich dem Alter der beiden Technologien geschuldet ist, aber es scheint als wäre Spark auch noch in den nächsten paar Jahren das weiter verbreitete Produkt.
 ### Schicken Sie einen Screenshot der installierten Umgebung mit
-folgt...
+![console](https://raw.githubusercontent.com/KenavR/FH-BLD-2016/master/console.png)
+![spark](https://raw.githubusercontent.com/KenavR/FH-BLD-2016/master/spark.png)
 ### Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)
 Als Fan der IntelliJ Produkte wurde IDEA 15 für Java inkl. Maven verwendet.
 
@@ -39,6 +40,8 @@ Als Fan der IntelliJ Produkte wurde IDEA 15 für Java inkl. Maven verwendet.
 _Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch._
 ### Ausführbares Programm
 https://github.com/KenavR/FH-BLD-2016/tree/master/spark-example
+
+![ide](https://raw.githubusercontent.com/KenavR/FH-BLD-2016/master/ide.png)
 
 # Data	Science
 ## Assignment	1: Technologien
