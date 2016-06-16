@@ -38,6 +38,7 @@ Als Fan der IntelliJ Produkte wurde IDEA 15 für Java inkl. Maven verwendet.
 ## Assignment	3: Big	Data in	Ihrem	Umfeld
 _Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch._
 ### Ausführbares Programm
+https://github.com/KenavR/FH-BLD-2016/tree/master/spark-example
 
 # Data	Science
 ## Assignment	1: Technologien
